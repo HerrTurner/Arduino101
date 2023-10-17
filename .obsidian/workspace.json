@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "32a9b946a205eaa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea35c978c7111ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ade0afbeabb8b9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descripción general y estructura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e1d244c8af56c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83e1aa7ac53cf59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f5dc5e8d8fd456",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "677cf8bcd18f5375",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "709ee568820ce171",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85ed86d617b3e32d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e12d8a3a4522661b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2b9a97d5a9c9db9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Descripción general y estructura.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d1f22f581c27e2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Descripción general y estructura.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a9792b2770d6ca9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a9c3cc6f446a369",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Descripción general y estructura.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ade0afbeabb8b9c1",
+  "lastOpenFiles": [
+    "Descripción general y estructura.md",
+    "Introducción/Microcontroladores.md",
+    "1. Introducción.md",
+    "Introducción.md",
+    "Untitled",
+    "Elementos de programación",
+    "Introducción"
+  ]
+}
