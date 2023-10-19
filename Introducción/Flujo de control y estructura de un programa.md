@@ -13,7 +13,7 @@ Se puede observar que el programa tiene un inicio y va avanzado paso a paso uno 
 ![[Control Flow Example.png]]
 (SparkFun Electronics, 2017)
 
-Más información sobre el flujo de control la puedes encontrar en la [[https://arduino.cl/flujo-de-control-estructura-y-sentencias-del-programa-arduino/ | documentación de Arduino]].
+Más información sobre el flujo de control la puedes encontrar en la documentación de Arduino (https://arduino.cl/flujo-de-control-estructura-y-sentencias-del-programa-arduino/).
 
 #### Referencias
 SparkFun Electronics. (2017, March 6). _Arduino Control Flow_ [Video]. YouTube. https://www.youtube.com/watch?v=QpPGGuaGbCA

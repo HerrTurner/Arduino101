@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea35c978c7111ba6",
+        "id": "b5294bbddca1d41a",
         "type": "tabs",
         "children": [
           {
-            "id": "ade0afbeabb8b9c1",
+            "id": "2e5e79e21cf3ba82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción/Microcontroladores.md",
+                "file": "Introducción/Arduino IDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción/Microcontroladores.md",
+                "file": "Introducción/Arduino IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción/Microcontroladores.md",
+                "file": "Introducción/Arduino IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción/Microcontroladores.md"
+                "file": "Introducción/Arduino IDE.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ade0afbeabb8b9c1",
+  "active": "2e5e79e21cf3ba82",
   "lastOpenFiles": [
-    "Introducción/Flujo de control y estructura de un programa.md",
-    "Introducción/Microcontroladores.md",
-    "Introducción/Arduino IDE.md",
     "Introducción/Control Flow Example.png",
+    "Introducción/Microcontroladores.md",
+    "Introducción/Flujo de control y estructura de un programa.md",
+    "Introducción/Arduino IDE.md",
     "Descripción general y estructura.md",
     "1. Introducción.md",
     "Introducción.md",
