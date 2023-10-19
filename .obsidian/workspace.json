@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Descripción general y estructura.md",
+                "file": "Introducción/Microcontroladores.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Descripción general y estructura.md",
+                "file": "Introducción/Microcontroladores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Descripción general y estructura.md",
+                "file": "Introducción/Microcontroladores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Descripción general y estructura.md"
+                "file": "Introducción/Microcontroladores.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "ade0afbeabb8b9c1",
   "lastOpenFiles": [
-    "Introducción/Arduino IDE.md",
-    "Descripción general y estructura.md",
     "Introducción/Flujo de control y estructura de un programa.md",
-    "Introducción/Control Flow Example.png",
     "Introducción/Microcontroladores.md",
+    "Introducción/Arduino IDE.md",
+    "Introducción/Control Flow Example.png",
+    "Descripción general y estructura.md",
     "1. Introducción.md",
     "Introducción.md",
     "Untitled",
