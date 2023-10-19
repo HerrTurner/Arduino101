@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción/Arduino IDE.md",
+                "file": "Elementos de programación/Tipos de variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción/Arduino IDE.md",
+                "file": "Elementos de programación/Tipos de variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción/Arduino IDE.md",
+                "file": "Elementos de programación/Tipos de variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción/Arduino IDE.md"
+                "file": "Elementos de programación/Tipos de variables.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "2e5e79e21cf3ba82",
   "lastOpenFiles": [
-    "Introducción/Control Flow Example.png",
-    "Introducción/Microcontroladores.md",
-    "Introducción/Flujo de control y estructura de un programa.md",
-    "Introducción/Arduino IDE.md",
     "Descripción general y estructura.md",
+    "Ejemplo Hello World.md",
+    "Elementos de programación/Tipos de variables.md",
+    "Elementos de programación/Sintáxis y estructura de un programa.md",
+    "Introducción/Microcontroladores.md",
+    "Introducción/Flujo de control.md",
+    "Introducción/Arduino IDE.md",
+    "Introducción/Control Flow Example.png",
     "1. Introducción.md",
     "Introducción.md",
     "Untitled",

@@ -1,17 +1,18 @@
-//Eventualmente aquí va a estar el objetivo y el alcance del curso
+El objetivo de los siguientes documentos es alcanzar un entendimiento básico de Arduino como microprocesador y lenguaje de programación, los elementos y estucturas básicas de la programación y uso de entradas y salidas digitales y analógicas.
+
 ### 1. Introducción
 - [[Microcontroladores |Qué son los microcontroladores]]
 - [[Arduino IDE |Elementos del IDE Arduino]]
-- [[Flujo de control y estructura de un programa]]
+- [[Flujo de control]]
 
 ### 2. Elementos de programación
-- Sintaxis
-- Tipos de variables
+- [[Sintáxis y estructura de un programa]]
+- [[Tipos de variables]]
 - Ejemplo Hello World
 
 ### 3. Construyendo un circuito
 - Pines digitales y analógicos
--  Monitor serial
+- Monitor serial
 - Ejemplo de entradas y salidas digitales y analógicas
 
 ### 4. Sentencias y ciclos de un programa
