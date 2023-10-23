@@ -8,6 +8,12 @@ Las variables tienen tres partes:
 
 El tipo nos ayuda a determinar qué es lo que va a almacenar, el identificador es el nombre que va a recibir la variable y es lo que utilizaremos para referirnos a ella, y el valor es lo que almacena la variable.
 
+>Ejemplo:
+>int miVariable = 3
+>
+>int se refiere a el tipo de la variable
+>miVariable es el identificador
+>3 es el valor que almacena la variable
 
 #### Numéricas
 - byte: es el tipo de dato más pequeño de Arduino. Puedes almacenar números positivos de 1 byte, es decir entre 0 y 255 inclusive.
@@ -28,3 +34,5 @@ El tipo nos ayuda a determinar qué es lo que va a almacenar, el identificador e
 Admin. (2022). Tipos de Variables en Arduino. _Proyectos Con Arduino_. https://proyectosconarduino.com/curso/tipos-de-variables-en-arduino/?expand_article=1
 
 Gómez, P. (2022, July 12). _¿Qué es una variable en programación? - DevCamp_. DevCamp. https://devcamp.es/que-es-variable-programacion/
+
+
