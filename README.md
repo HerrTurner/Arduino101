@@ -5,7 +5,7 @@ El objetivo de los siguientes documentos es alcanzar un entendimiento básico de
 Se asume que se tiene un conocimiento previo en programación, por lo que los siguientes documentos suponen un rápido repaso para completar y reforzar conceptos y prácticas de programación.
 
 ### 1. Introducción
-- [[Microcontroladores |Qué son los microcontroladores]]
+- [Qué son los microcontroladores](Introducción/Microcontroladores)
 - [[Arduino IDE |Elementos del IDE Arduino]]
 - [[Flujo de control]]
 
