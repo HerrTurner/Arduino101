@@ -1,3 +1,5 @@
+# Descripción general y estructura
+
 El objetivo de los siguientes documentos es alcanzar un entendimiento básico de Arduino como microprocesador y lenguaje de programación, los elementos y estucturas básicas de la programación y uso de entradas y salidas digitales y analógicas.
 
 Se asume que se tiene un conocimiento previo en programación, por lo que los siguientes documentos suponen un rápido repaso para completar y reforzar conceptos y prácticas de programación.
