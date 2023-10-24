@@ -14,7 +14,7 @@ Se asume que se tiene un conocimiento previo en programación, por lo que los si
 
 ### 3. Construyendo un circuito
 - [[Entradas y salidas en Arduino]]
-- Monitor serial
+- [[Monitor Serial]]
 - Ejemplo de entradas y salidas digitales y analógicas
 - Buenas prácticas de programación
 

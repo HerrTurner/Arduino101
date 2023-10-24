@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Construyendo un circuito/Monitor Serial.md",
+                "file": "Descripción general y estructura.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Construyendo un circuito/Monitor Serial.md",
+                "file": "Descripción general y estructura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Construyendo un circuito/Monitor Serial.md",
+                "file": "Descripción general y estructura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Construyendo un circuito/Monitor Serial.md"
+                "file": "Descripción general y estructura.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "2e5e79e21cf3ba82",
   "lastOpenFiles": [
-    "Construyendo un circuito/Entradas y salidas en Arduino.md",
     "Construyendo un circuito/Monitor Serial.md",
+    "Construyendo un circuito/Entradas y salidas en Arduino.md",
     "Elementos de programación/Sintáxis y elementos de un programa.md",
     "Elementos de programación/Tipos de variables.md",
     "Introducción/Arduino IDE.md",
