@@ -7,13 +7,13 @@ Existen ciertos eventos que alteran el flujo del programa, por ejemplo saltarse 
 Lo siguiente es un ejemplo de un programa y su flujo de control.
 El programa consiste en un pin que va alternando entre prendido y apagado con una pausa entre cada cambio. 
 
-Se puede observar que el programa tiene un inicio y va avanzado paso a paso uno a la vez hasta que llega a un evento que regresa a un evento anterior generando un ciclo.
+Se puede observar en la Figura 1. (SparkFun Electronics, 2017) que el programa tiene un inicio y va avanzado paso a paso uno a la vez hasta que llega a un evento que regresa a un evento anterior generando un ciclo.
 
 
 ![[Control Flow Example.png]]
-(SparkFun Electronics, 2017)
+Figura 1. Diagrama de flujo de control de un programa
 
-Más información sobre el flujo de control la puedes encontrar en la documentación de Arduino (https://arduino.cl/flujo-de-control-estructura-y-sentencias-del-programa-arduino/).
+Más información sobre el flujo de control la puedes encontrar en la [documentación de Arduino](https://arduino.cl/flujo-de-control-estructura-y-sentencias-del-programa-arduino/).
 
 #### Referencias
-SparkFun Electronics. (2017, March 6). _Arduino Control Flow_ [Video]. YouTube. https://www.youtube.com/watch?v=QpPGGuaGbCA
+SparkFun Electronics. (2017, March 6). _Arduino Control Flow_ [Video]. YouTube.  https://www.youtube.com/watch?v=QpPGGuaGbCA

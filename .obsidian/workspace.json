@@ -11,12 +11,16 @@
             "id": "2e5e79e21cf3ba82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elementos de programación/Tipos de variables.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "07b3df2933ba0199",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elementos de programación/Tipos de variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elementos de programación/Tipos de variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Elementos de programación/Tipos de variables.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,20 +148,24 @@
   },
   "active": "2e5e79e21cf3ba82",
   "lastOpenFiles": [
-    "Elementos de programación/Tipos de variables.md",
+    "la.md",
+    "Construyendo un circuito/Entradas y salidas en Arduino.md",
     "Introducción/Arduino IDE.md",
+    "Introducción/Flujo de control.md",
+    "Introducción/Microcontroladores.md",
+    "Recursos/Arduino Uno Rev 3 Pinout.png",
+    "Recursos",
+    "documentación.md",
     "Descripción general y estructura.md",
+    "Elementos de programación/Tipos de variables.md",
     "Elementos de programación/Sintáxis y elementos de un programa.md",
     "Construyendo un circuito/Sintáxis y estructura de un programa.md",
     "Elementos de programación/Sintáxis y estructura de un programa.md",
     "Construyendo un circuito",
     "Ejemplo Hello World.md",
-    "Introducción/Microcontroladores.md",
-    "Introducción/Flujo de control.md",
-    "Introducción/Control Flow Example.png",
+    "Recursos/Control Flow Example.png",
     "1. Introducción.md",
     "Introducción.md",
-    "Untitled",
     "Elementos de programación",
     "Introducción"
   ]

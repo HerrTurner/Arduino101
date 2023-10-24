@@ -1,6 +1,6 @@
 
 #### Definición
-El microcontrolador es un circuito integrado y los podemos encontrar como elementos principales en sistemas embebidos. Nos permite controlar elementos de entrada y salida para automatizar procesos y procesar información.
+El microcontrolador es un circuito integrado y los podemos encontrar como elementos principales en sistemas embebidos. Nos permite controlar elementos de entrada y salida para automatizar procesos y procesar información. Es decir, un microcontrolador tiene la capacidad de recibir información para procesar a través de las entradas, y escribir información por medio de las salidas.
 
 Los elementos mínimos de un microcontrolador son:
 - Microprocesador
