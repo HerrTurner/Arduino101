@@ -6,7 +6,7 @@ Se asume que se tiene un conocimiento previo en programación, por lo que los si
 
 ### 1. Introducción
 - [Qué son los microcontroladores](Introducción/Microcontroladores.md)
-- [[Arduino IDE |Elementos del IDE Arduino]]
+- [Elementos del IDE Arduino](Introducción/Arduino IDE.md)
 - [[Flujo de control]]
 
 ### 2. Elementos de programación

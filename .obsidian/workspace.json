@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción/Microcontroladores.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción/Microcontroladores.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción/Microcontroladores.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción/Microcontroladores.md"
+                "file": "README.md"
               }
             }
           }
@@ -156,16 +156,18 @@
   },
   "active": "2e5e79e21cf3ba82",
   "lastOpenFiles": [
-    "README.md",
     "Construyendo un circuito/Monitor Serial.md",
     "Construyendo un circuito/Entradas y salidas en Arduino.md",
+    "Construyendo un circuito/Buenas Prácticas.md",
+    "README.md",
+    "Introducción/Arduino.md",
+    "Introducción/Arduino IDE.md",
+    "Introducción/Microcontroladores.md",
     "Elementos de programación/Sintáxis y elementos de un programa.md",
     "Elementos de programación/Tipos de variables.md",
-    "Introducción/Arduino IDE.md",
     "Recursos/Control Flow Example.png",
     "la.md",
     "Introducción/Flujo de control.md",
-    "Introducción/Microcontroladores.md",
     "Recursos/Arduino Uno Rev 3 Pinout.png",
     "Recursos",
     "documentación.md",
