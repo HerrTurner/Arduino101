@@ -11,8 +11,12 @@
             "id": "2e5e79e21cf3ba82",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Construyendo un circuito/Monitor Serial.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Construyendo un circuito/Monitor Serial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Construyendo un circuito/Monitor Serial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Construyendo un circuito/Monitor Serial.md"
+              }
             }
           }
         ]
@@ -148,22 +156,23 @@
   },
   "active": "2e5e79e21cf3ba82",
   "lastOpenFiles": [
-    "la.md",
     "Construyendo un circuito/Entradas y salidas en Arduino.md",
+    "Construyendo un circuito/Monitor Serial.md",
+    "Elementos de programación/Sintáxis y elementos de un programa.md",
+    "Elementos de programación/Tipos de variables.md",
     "Introducción/Arduino IDE.md",
+    "Recursos/Control Flow Example.png",
+    "Descripción general y estructura.md",
+    "la.md",
     "Introducción/Flujo de control.md",
     "Introducción/Microcontroladores.md",
     "Recursos/Arduino Uno Rev 3 Pinout.png",
     "Recursos",
     "documentación.md",
-    "Descripción general y estructura.md",
-    "Elementos de programación/Tipos de variables.md",
-    "Elementos de programación/Sintáxis y elementos de un programa.md",
     "Construyendo un circuito/Sintáxis y estructura de un programa.md",
     "Elementos de programación/Sintáxis y estructura de un programa.md",
     "Construyendo un circuito",
     "Ejemplo Hello World.md",
-    "Recursos/Control Flow Example.png",
     "1. Introducción.md",
     "Introducción.md",
     "Elementos de programación",

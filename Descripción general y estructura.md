@@ -13,7 +13,7 @@ Se asume que se tiene un conocimiento previo en programación, por lo que los si
 - Ejemplo Hello World
 
 ### 3. Construyendo un circuito
-- Pines digitales y analógicos
+- [[Entradas y salidas en Arduino]]
 - Monitor serial
 - Ejemplo de entradas y salidas digitales y analógicas
 - Buenas prácticas de programación
