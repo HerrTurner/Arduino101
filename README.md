@@ -40,3 +40,8 @@ Se asume que se tiene un conocimiento previo en programación, por lo que los si
 - Comunicación con SPI
 - Comunicación con I2C
 - Interrupciones
+
+### 7. Troubleshooting
+- Identificar tarjeta
+- Incluir tarjeta
+- 
