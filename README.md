@@ -42,6 +42,7 @@ Se asume que se tiene un conocimiento previo en programación, por lo que los si
 - Interrupciones
 
 ### 7. Troubleshooting
-- Identificar tarjeta
-- Incluir tarjeta
-- 
+- Identificar y seleccionar tarjeta
+- Incluir librerías y controladores de tarjeta
+- Problemas compilando
+- La tarjeta no es detectada
