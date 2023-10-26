@@ -8,7 +8,7 @@ Es importante revisar la distribución de los pines de un Arduino, para esto es 
 
 En la Figura 1. (_UNO R3 | Arduino Documentation_, s.f.) se observa la distribución de un Arduino Uno R3. Existe más información en la [documentación de Arduino](https://docs.arduino.cc/hardware/uno-rev3).
 
-![[Arduino Uno Rev 3 Pinout.png]]
+![Arduino Uno Rev 3 Pinout](Arduino%20Uno%20Rev%203%20Pinout.png)
 Figura 1. Diagrama de pines de un Arduino Uno R3
 
 #### Digitales

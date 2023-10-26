@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "Introducción",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }

@@ -6,17 +6,17 @@ Se asume que se tiene un conocimiento previo en programación, por lo que los si
 
 ### 1. Introducción
 - [Qué son los microcontroladores](Introducción/Microcontroladores.md)
-- [Elementos del IDE Arduino](Introducción/Arduino IDE.md)
-- [[Flujo de control]]
+- [Arduino IDE](Arduino%20IDE.md)
+- [Flujo de control](Flujo%20de%20control.md)
 
 ### 2. Elementos de programación
-- [[Sintáxis y elementos de un programa]]
-- [[Tipos de variables]]
+- [Sintáxis y elementos de un programa](Sintáxis%20y%20elementos%20de%20un%20programa.md)
+- [Tipos de variables](Tipos%20de%20variables.md)
 - Ejemplo Hello World
 
 ### 3. Construyendo un circuito
-- [[Entradas y salidas en Arduino]]
-- [[Monitor Serial]]
+- [Entradas y salidas en Arduino](Entradas%20y%20salidas%20en%20Arduino.md)
+- [Monitor Serial](Monitor%20Serial.md)
 - Ejemplo de entradas y salidas digitales y analógicas
 - Buenas prácticas de programación
 

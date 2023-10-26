@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting/FAQ.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubleshooting/FAQ.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troubleshooting/FAQ.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troubleshooting/FAQ.md"
+                "file": "README.md"
               }
             }
           }
@@ -169,22 +169,23 @@
   },
   "active": "d4371c8cc962dc62",
   "lastOpenFiles": [
+    "Construyendo un circuito/Entradas y salidas en Arduino.md",
+    "().md",
+    "Introducción/Flujo de control.md",
     "README.md",
+    "Introducción/Microcontroladores.md",
+    "Introducción/Arduino.md",
+    "Construyendo un circuito/Buenas Prácticas.md",
     "Troubleshooting/FAQ.md",
     "Troubleshooting",
     "Construyendo un circuito/Monitor Serial.md",
     "Elementos de programación/Sintáxis y elementos de un programa.md",
     "Elementos de programación/Hello_World/Hello_World.ino",
     "Elementos de programación/Hello_World",
-    "Construyendo un circuito/Entradas y salidas en Arduino.md",
-    "Construyendo un circuito/Buenas Prácticas.md",
-    "Introducción/Arduino.md",
     "Introducción/Arduino IDE.md",
-    "Introducción/Microcontroladores.md",
     "Elementos de programación/Tipos de variables.md",
     "Recursos/Control Flow Example.png",
     "la.md",
-    "Introducción/Flujo de control.md",
     "Recursos/Arduino Uno Rev 3 Pinout.png",
     "Recursos",
     "documentación.md",
