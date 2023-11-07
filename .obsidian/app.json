@@ -1,5 +1,6 @@
 {
-  "attachmentFolderPath": "Introducción",
+  "attachmentFolderPath": "Recursos",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }

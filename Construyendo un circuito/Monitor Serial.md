@@ -1,7 +1,7 @@
 
 El monitor serial es una herramienta esencial para el desarrollo en Arduino. Permite depurar el código, comunicarse en tiempo real con la tarjeta de Arduino ya sea mandarle información o visualizar lo que está escribiendo.
 
-Se requiere tener instalado el [[Arduino IDE|IDE de Arduino]] y una tarjeta Arduino conectada a la computadora con sus respectivos controladores. En general, al instalar el IDE de Arduino se incluyen los controladores para las tarjetas de Arduino más populares.
+Se requiere tener instalado el [[Introducción/Arduino y Arduino IDE|IDE de Arduino]] y una tarjeta Arduino conectada a la computadora con sus respectivos controladores. En general, al instalar el IDE de Arduino se incluyen los controladores para las tarjetas de Arduino más populares.
 
 Al inicio de un programa es necesario iniciar la comunicación serial estableciendo la cantidad máxima de bits por segundo que se puede transferir. Generalmente se trabaja con 9600 baudios.
 

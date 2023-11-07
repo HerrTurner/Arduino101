@@ -30,14 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "07b3df2933ba0199",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -169,21 +161,26 @@
   },
   "active": "d4371c8cc962dc62",
   "lastOpenFiles": [
-    "Construyendo un circuito/Entradas y salidas en Arduino.md",
-    "().md",
-    "Introducción/Flujo de control.md",
+    "Elementos de programación/Sintáxis y elementos de un programa.md",
+    "Elementos de programación/Tipos de variables.md",
+    "Introducción/Arduino y Arduino IDE.md",
     "README.md",
-    "Introducción/Microcontroladores.md",
     "Introducción/Arduino.md",
+    "Introducción/Flujo de control.md",
+    "Construyendo un circuito/Monitor Serial.md",
+    "Construyendo un circuito/Entradas y salidas en Arduino.md",
+    "Introducción/Microcontroladores.md",
+    "Sentencias y ciclos de un programa/Matemáticas en programación.md",
+    "Sentencias y ciclos de un programa/Funciones.md",
+    "Sentencias y ciclos de un programa/Ciclos.md",
+    "Sentencias y ciclos de un programa/Condicionales.md",
+    "Sentencias y ciclos de un programa",
+    "().md",
     "Construyendo un circuito/Buenas Prácticas.md",
     "Troubleshooting/FAQ.md",
     "Troubleshooting",
-    "Construyendo un circuito/Monitor Serial.md",
-    "Elementos de programación/Sintáxis y elementos de un programa.md",
     "Elementos de programación/Hello_World/Hello_World.ino",
     "Elementos de programación/Hello_World",
-    "Introducción/Arduino IDE.md",
-    "Elementos de programación/Tipos de variables.md",
     "Recursos/Control Flow Example.png",
     "la.md",
     "Recursos/Arduino Uno Rev 3 Pinout.png",

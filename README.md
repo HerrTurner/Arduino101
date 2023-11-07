@@ -4,21 +4,22 @@ El objetivo de los siguientes documentos es alcanzar un entendimiento básico de
 
 Se asume que se tiene un conocimiento previo en programación, por lo que los siguientes documentos suponen un rápido repaso para completar y reforzar conceptos y prácticas de programación.
 
+Todos los ejemplos utilizados se pueden encontrar en la [documentación de Arduino](https://docs.arduino.cc/built-in-examples/)
 ### 1. Introducción
 - [Qué son los microcontroladores](Introducción/Microcontroladores.md)
-- [Arduino IDE](Arduino%20IDE.md)
-- [Flujo de control](Flujo%20de%20control.md)
+- [Arduino y Arduino IDE](Introducción/Arduino%20y%20Arduino%20IDE.md)
+- [Flujo de control](Introducción/Flujo%20de%20control.md)
 
 ### 2. Elementos de programación
-- [Sintáxis y elementos de un programa](Sintáxis%20y%20elementos%20de%20un%20programa.md)
-- [Tipos de variables](Tipos%20de%20variables.md)
+- [Sintáxis y elementos de un programa](Elementos%20de%20programación/Sintáxis%20y%20elementos%20de%20un%20programa.md)
+- [Tipos de variables](Elementos%20de%20programación/Tipos%20de%20variables.md)
 - Ejemplo Hello World
 
 ### 3. Construyendo un circuito
 - [Entradas y salidas en Arduino](Entradas%20y%20salidas%20en%20Arduino.md)
 - [Monitor Serial](Monitor%20Serial.md)
 - Ejemplo de entradas y salidas digitales y analógicas
-- Buenas prácticas de programación
+- [Buenas Prácticas](Construyendo%20un%20circuito/Buenas%20Prácticas.md)
 
 ### 4. Sentencias y ciclos de un programa
 - Matemáticas en programación
@@ -31,17 +32,23 @@ Se asume que se tiene un conocimiento previo en programación, por lo que los si
 
 ### 5. Librerías
 - Qué son las librerías
+- Importar librerías
 - Ejemplo de uso de librerías
-- Servomotores
+
+### 6.  Componentes
+- Servomotor
+- Puente H
+- Sensor Ultrasónico
 - Bluetooth
 - WiFi
 
-### 6. Temas avanzados
+### 7. Temas avanzados
+- Debounce
+- Interrupciones
 - Comunicación con SPI
 - Comunicación con I2C
-- Interrupciones
 
-### 7. Troubleshooting
+### 8. Troubleshooting
 - Identificar y seleccionar tarjeta
 - Incluir librerías y controladores de tarjeta
 - Problemas compilando
