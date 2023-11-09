@@ -10,7 +10,7 @@ El programa consiste en un pin que va alternando entre prendido y apagado con un
 Se puede observar en la Figura 1. (SparkFun Electronics, 2017) que el programa tiene un inicio y va avanzado paso a paso uno a la vez hasta que llega a un evento que regresa a un evento anterior generando un ciclo.
 
 
-![Control Flow Example](Recursos/Control%20Flow%20Example.png)]
+![Control Flow Example](/Recursos/Control%20Flow%20Example.png)]
 Figura 1. Diagrama de flujo de control de un programa
 
 Más información sobre el flujo de control la puedes encontrar en la [documentación de Arduino](https://arduino.cl/flujo-de-control-estructura-y-sentencias-del-programa-arduino/).
