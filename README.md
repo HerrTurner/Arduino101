@@ -1,6 +1,6 @@
 # Descripción general y estructura
 
-El objetivo de los siguientes documentos es alcanzar un entendimiento básico de Arduino como microprocesador y lenguaje de programación, los elementos y estucturas básicas de la programación y uso de entradas y salidas digitales y analógicas.
+El objetivo de los siguientes documentos es alcanzar un entendimiento básico de Arduino como microprocesador y lenguaje de programación, los elementos y estructuras básicas de la programación y uso de entradas y salidas digitales y analógicas.
 
 Se asume que se tiene un conocimiento previo en programación, por lo que los siguientes documentos suponen un rápido repaso para completar y reforzar conceptos y prácticas de programación.
 
@@ -16,8 +16,8 @@ Todos los ejemplos utilizados se pueden encontrar en la [documentación de Ardui
 - Ejemplo Hello World
 
 ### 3. Construyendo un circuito
-- [Entradas y salidas en Arduino](Entradas%20y%20salidas%20en%20Arduino.md)
-- [Monitor Serial](Monitor%20Serial.md)
+- [Entradas y salidas en Arduino](Construyendo%20un%20circuito/Entradas%20y%20salidas%20en%20Arduino.md)Entradas y salidas en Arduino
+- [Monitor Serial](Construyendo%20un%20circuito/Monitor%20Serial.md)Monitor Serial
 - Ejemplo de entradas y salidas digitales y analógicas
 - [Buenas Prácticas](Construyendo%20un%20circuito/Buenas%20Prácticas.md)
 

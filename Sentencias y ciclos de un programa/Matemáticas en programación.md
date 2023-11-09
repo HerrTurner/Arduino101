@@ -32,7 +32,6 @@ Si queremos comparar dos variables usamos el operador ==
 
 #### Potencias y raices
 
-
 #### Operadores trigonométricos
 
 #### Otras funciones importantes

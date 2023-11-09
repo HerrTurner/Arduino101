@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e5e79e21cf3ba82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4371c8cc962dc62",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,6 +148,12 @@
   },
   "active": "d4371c8cc962dc62",
   "lastOpenFiles": [
+    "Elementos de programación/Sintáxis y elementos de un programa.md",
+    "Elementos de programación/Tipos de variables.md",
+    "README.md",
+    "Sentencias y ciclos de un programa/Matemáticas en programación.md",
+    "Introducción/Arduino y Arduino IDE.md",
+    "Introducción/Microcontroladores.md",
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/Fade-PWM/schematic.png",
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/Fade-PWM/layout.png",
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/Fade-PWM/Fade.txt",
@@ -179,16 +172,10 @@
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/AnalogInOutSerial/schematic.png",
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/AnalogInOutSerial/layout.png",
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/AnalogInOutSerial/AnalogInOutSerial.txt",
-    "Elementos de programación/Sintáxis y elementos de un programa.md",
-    "Elementos de programación/Tipos de variables.md",
-    "Introducción/Arduino y Arduino IDE.md",
-    "README.md",
     "Introducción/Arduino.md",
     "Introducción/Flujo de control.md",
     "Construyendo un circuito/Monitor Serial.md",
     "Construyendo un circuito/Entradas y salidas en Arduino.md",
-    "Introducción/Microcontroladores.md",
-    "Sentencias y ciclos de un programa/Matemáticas en programación.md",
     "Sentencias y ciclos de un programa/Funciones.md",
     "Sentencias y ciclos de un programa/Ciclos.md",
     "Sentencias y ciclos de un programa/Condicionales.md",
