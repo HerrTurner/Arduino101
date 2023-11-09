@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sentencias y ciclos de un programa/Matemáticas en programación.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Sentencias y ciclos de un programa/Matemáticas en programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Sentencias y ciclos de un programa/Matemáticas en programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Sentencias y ciclos de un programa/Matemáticas en programación.md"
               }
             }
           }
@@ -148,12 +148,18 @@
   },
   "active": "d4371c8cc962dc62",
   "lastOpenFiles": [
-    "Elementos de programación/Sintáxis y elementos de un programa.md",
+    "Sentencias y ciclos de un programa/Funciones.md",
+    "Sentencias y ciclos de un programa/Condicionales.md",
+    "Sentencias y ciclos de un programa/Ciclos.md",
+    "Introducción/Microcontroladores.md",
+    "Introducción/Flujo de control.md",
+    "Introducción/Arduino y Arduino IDE.md",
     "Elementos de programación/Tipos de variables.md",
+    "Elementos de programación/Sintáxis y elementos de un programa.md",
+    "Construyendo un circuito/Entradas y salidas en Arduino.md",
+    "Construyendo un circuito/Monitor Serial.md",
     "README.md",
     "Sentencias y ciclos de un programa/Matemáticas en programación.md",
-    "Introducción/Arduino y Arduino IDE.md",
-    "Introducción/Microcontroladores.md",
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/Fade-PWM/schematic.png",
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/Fade-PWM/layout.png",
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/Fade-PWM/Fade.txt",
@@ -173,12 +179,6 @@
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/AnalogInOutSerial/layout.png",
     "Construyendo un circuito/Ejemplo de Entradas y Salidas/AnalogInOutSerial/AnalogInOutSerial.txt",
     "Introducción/Arduino.md",
-    "Introducción/Flujo de control.md",
-    "Construyendo un circuito/Monitor Serial.md",
-    "Construyendo un circuito/Entradas y salidas en Arduino.md",
-    "Sentencias y ciclos de un programa/Funciones.md",
-    "Sentencias y ciclos de un programa/Ciclos.md",
-    "Sentencias y ciclos de un programa/Condicionales.md",
     "().md",
     "Construyendo un circuito/Buenas Prácticas.md",
     "Troubleshooting/FAQ.md",
