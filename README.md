@@ -16,8 +16,8 @@ Todos los ejemplos utilizados se pueden encontrar en la [documentación de Ardui
 - Ejemplo Hello World
 
 ### 3. Construyendo un circuito
-- [Entradas y salidas en Arduino](Construyendo%20un%20circuito/Entradas%20y%20salidas%20en%20Arduino.md)Entradas y salidas en Arduino
-- [Monitor Serial](Construyendo%20un%20circuito/Monitor%20Serial.md)Monitor Serial
+- [Entradas y salidas en Arduino](Construyendo%20un%20circuito/Entradas%20y%20salidas%20en%20Arduino.md)
+- [Monitor Serial](Construyendo%20un%20circuito/Monitor%20Serial.md)
 - Ejemplo de entradas y salidas digitales y analógicas
 - [Buenas Prácticas](Construyendo%20un%20circuito/Buenas%20Prácticas.md)
 
